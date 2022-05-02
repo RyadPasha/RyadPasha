@@ -34,8 +34,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/RyadPasha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RyadPasha" /></a><a href="https://ko-fi.com/RyadPasha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="RyadPasha" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryadpasha&show_icons=true&locale=en&layout=compact" alt="ryadpasha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryadpasha&show_icons=true&locale=en" alt="ryadpasha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryadpasha&" alt="ryadpasha" /></p>
+<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryadpasha&show_icons=true&locale=en" alt="ryadpasha" />
