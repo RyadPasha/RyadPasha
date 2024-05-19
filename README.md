@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryadpasha](https://github.com/ryadpasha)
 
-- 💬 Ask me about **PHP, NodeJS, Python, Java, C#, C++, Rust, Dart/Flutter**
+- 💬 Ask me about **NodeJS, Python, Java, C#, C++, PHP, Rust, Dart/Flutter**
 
 - 📫 How to reach me **m@ryad.dev**
 
