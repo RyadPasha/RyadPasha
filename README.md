@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Riyad</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Systems Architect | Senior Software Engineer</h3>
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ryadpasha" alt="ryadpasha" /></a> </p>
 
@@ -7,9 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryadpasha](https://github.com/ryadpasha)
 
-- 💬 Ask me about **PHP, NodeJS, Python, Java, C#, C++, Dart and Flutter**
+- 💬 Ask me about **PHP, NodeJS, Python, Java, C#, C++, Rust, Dart/Flutter**
 
-- 📫 How to reach me **m@ryad.me**
+- 📫 How to reach me **m@ryad.dev**
+
+- 🌐 Visit my website [https://ryad.dev](https://ryad.dev)
 
 - 📄 Know about my experiences [https://cv.ryad.me](https://cv.ryad.me)
 
