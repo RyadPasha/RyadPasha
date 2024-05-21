@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ryadpasha" target="blank"><img src="https://img.shields.io/twitter/follow/ryadpasha?logo=twitter&style=for-the-badge" alt="ryadpasha" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ryadpasha](https://github.com/ryadpasha)
+- 👨‍💻 Some of my projects are available at [https://github.com/ryadpasha](https://github.com/ryadpasha)
 
 - 💬 Ask me about **NodeJS, Python, Java, C#, C++, PHP, Rust, Dart/Flutter**
 
