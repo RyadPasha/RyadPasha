@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Riyad</h1>
-<h3 align="center">Solutions Architect | Senior Software Engineer</h3>
+<h3 align="center">Senior Software Engineer | Solutions Architect</h3>
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ryadpasha" alt="ryadpasha" /></a> </p>
 
