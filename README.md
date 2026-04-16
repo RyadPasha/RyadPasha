@@ -10,6 +10,6 @@
 - 📫 How to reach me **mohamed@ryad.dev**
 
 - 🌐 Visit my website [https://ryad.dev](https://ryad.dev)
-- 
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/RyadPasha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RyadPasha" /></a><a href="https://ko-fi.com/RyadPasha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="RyadPasha" /></a></p><br><br>
